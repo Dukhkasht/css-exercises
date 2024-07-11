@@ -1,0 +1,20 @@
+.good,
+.cool {
+    background-color: rgb(255, 192, 205);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#one {
+    color: rgb(0, 68, 255);
+    font-size: 36px;
+}
+
+#two {
+    background-color: rgb(144, 238, 167);
+    font-weight: bold;
+    font-size: 24px;
+}
