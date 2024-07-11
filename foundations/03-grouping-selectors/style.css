@@ -1,0 +1,14 @@
+.pehla,
+.dusra {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
+
+.dusra {
+    background-color: yellow;
+}
+
+.pehla {
+    background-color: black;
+    color: white;
+}
